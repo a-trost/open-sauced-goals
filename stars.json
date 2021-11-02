@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "open-sauced/open-sauced",
+    "stargazers_count": 527,
+    "open_issues_count": 25,
+    "forks_count": 149
+  },
+  {
     "full_name": "5t3ph/11ty-netlify-jumpstart",
     "stargazers_count": 169,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 16719,
+    "stargazers_count": 16720,
     "open_issues_count": 190,
     "forks_count": 467
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 5225,
     "open_issues_count": 50,
     "forks_count": 240
-  },
-  {
-    "full_name": "BenDMyers/eleventy-plugin-twitch-chat",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
