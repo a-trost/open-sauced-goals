@@ -1,7 +1,7 @@
 [
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 12,
     "forks_count": 8
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 16864,
-    "open_issues_count": 195,
-    "forks_count": 473
+    "stargazers_count": 16931,
+    "open_issues_count": 197,
+    "forks_count": 475
   },
   {
     "full_name": "colinhemphill/nextjs-resume",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 1306,
+    "stargazers_count": 1307,
     "open_issues_count": 1,
     "forks_count": 154
   },
@@ -57,7 +57,7 @@
     "full_name": "angeloashmore/gatsby-plugin-local-search",
     "stargazers_count": 42,
     "open_issues_count": 21,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "orbit-love/orbit-model",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 5387,
-    "open_issues_count": 301,
-    "forks_count": 433
+    "stargazers_count": 5395,
+    "open_issues_count": 295,
+    "forks_count": 435
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 16260,
+    "stargazers_count": 16265,
     "open_issues_count": 29,
     "forks_count": 543
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "Accudio/cead-consent",
-    "stargazers_count": 39,
+    "stargazers_count": 41,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "gajus/babel-plugin-react-css-modules",
-    "stargazers_count": 1982,
+    "stargazers_count": 1983,
     "open_issues_count": 65,
     "forks_count": 162
   }
