@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "csellis/component-library",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "angeloashmore/gatsby-4-prismic-demo",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 121,
+    "stargazers_count": 124,
     "open_issues_count": 12,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 536,
+    "stargazers_count": 540,
     "open_issues_count": 25,
     "forks_count": 151
   },
   {
     "full_name": "5t3ph/11ty-netlify-jumpstart",
-    "stargazers_count": 170,
+    "stargazers_count": 172,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 16931,
-    "open_issues_count": 197,
-    "forks_count": 475
+    "stargazers_count": 17091,
+    "open_issues_count": 210,
+    "forks_count": 479
   },
   {
     "full_name": "colinhemphill/nextjs-resume",
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 1307,
+    "stargazers_count": 1308,
     "open_issues_count": 1,
     "forks_count": 154
   },
@@ -43,7 +55,7 @@
   },
   {
     "full_name": "nachtfunke/basic-pattern-repository",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -61,31 +73,31 @@
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 721,
+    "stargazers_count": 726,
     "open_issues_count": 4,
     "forks_count": 52
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 5395,
-    "open_issues_count": 295,
-    "forks_count": 435
+    "stargazers_count": 5425,
+    "open_issues_count": 296,
+    "forks_count": 438
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 16265,
-    "open_issues_count": 29,
-    "forks_count": 543
+    "stargazers_count": 16293,
+    "open_issues_count": 31,
+    "forks_count": 549
   },
   {
     "full_name": "sindresorhus/ponyfill",
-    "stargazers_count": 1022,
+    "stargazers_count": 1024,
     "open_issues_count": 1,
     "forks_count": 21
   },
   {
     "full_name": "Accudio/cead-consent",
-    "stargazers_count": 41,
+    "stargazers_count": 46,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "5t3ph/htmlrecipes",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 2,
     "forks_count": 6
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 1700,
+    "stargazers_count": 1707,
     "open_issues_count": 14,
-    "forks_count": 111
+    "forks_count": 112
   },
   {
     "full_name": "prismicio-community/storybook-addon-gatsby",
@@ -146,8 +158,8 @@
   {
     "full_name": "MaggieAppleton/maggieappleton.com",
     "stargazers_count": 157,
-    "open_issues_count": 11,
-    "forks_count": 28
+    "open_issues_count": 13,
+    "forks_count": 30
   },
   {
     "full_name": "ScottMellors/io.predictionbuttons.sdPlugin",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "ZachSaucier/Disintegrate",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 0,
     "forks_count": 41
   },
   {
     "full_name": "rogden/tailwind-config-viewer",
-    "stargazers_count": 1129,
+    "stargazers_count": 1133,
     "open_issues_count": 18,
     "forks_count": 54
-  },
-  {
-    "full_name": "cyrilwanner/next-compose-plugins",
-    "stargazers_count": 572,
-    "open_issues_count": 21,
-    "forks_count": 9
-  },
-  {
-    "full_name": "gajus/babel-plugin-react-css-modules",
-    "stargazers_count": 1983,
-    "open_issues_count": 65,
-    "forks_count": 162
   }
 ]
