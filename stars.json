@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ryanlabar/next-page-transitions",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "netlify-templates/sveltekit-netlify-starter",
     "stargazers_count": 1,
     "open_issues_count": 1,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 12,
     "forks_count": 10
   },
@@ -31,15 +37,15 @@
   },
   {
     "full_name": "5t3ph/11ty-netlify-jumpstart",
-    "stargazers_count": 173,
+    "stargazers_count": 172,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 17544,
-    "open_issues_count": 216,
-    "forks_count": 501
+    "stargazers_count": 17676,
+    "open_issues_count": 222,
+    "forks_count": 505
   },
   {
     "full_name": "colinhemphill/nextjs-resume",
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 1315,
+    "stargazers_count": 1316,
     "open_issues_count": 1,
     "forks_count": 155
   },
@@ -79,21 +85,21 @@
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 738,
+    "stargazers_count": 739,
     "open_issues_count": 4,
     "forks_count": 52
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 5560,
-    "open_issues_count": 306,
-    "forks_count": 447
+    "stargazers_count": 5603,
+    "open_issues_count": 314,
+    "forks_count": 448
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 16355,
-    "open_issues_count": 39,
-    "forks_count": 551
+    "stargazers_count": 16389,
+    "open_issues_count": 40,
+    "forks_count": 552
   },
   {
     "full_name": "sindresorhus/ponyfill",
@@ -103,13 +109,13 @@
   },
   {
     "full_name": "Accudio/cead-consent",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "cloudinary-devs/gatsby-transformer-cloudinary",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 50,
     "forks_count": 23
   },
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "5t3ph/htmlrecipes",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 2,
     "forks_count": 6
   },
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 1718,
+    "stargazers_count": 1722,
     "open_issues_count": 14,
     "forks_count": 114
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "ZachSaucier/Disintegrate",
-    "stargazers_count": 266,
-    "open_issues_count": 0,
-    "forks_count": 41
   }
 ]
